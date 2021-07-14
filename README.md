@@ -95,4 +95,4 @@ Thank you to xView2 team for creating and releasing this amazing dataset and opp
  - Competition and Dataset: https://www.xview2.org
  - UNet: https://arxiv.org/pdf/1505.04597.pdf
  - Pretrained models for Pytorch: https://github.com/Cadene/pretrained-models.pytorch
- - My 1st place solution from "SpaceNet 4: Off-Nadir Building Footprint Detection Challenge" (some ideas came from here): https://github.com/SpaceNetChallenge/SpaceNet_Off_Nadir_Solutions/tree/master/cannab
+ - 1st place solution from "SpaceNet 4: Off-Nadir Building Footprint Detection Challenge" (some ideas came from here): https://github.com/SpaceNetChallenge/SpaceNet_Off_Nadir_Solutions/tree/master/cannab
